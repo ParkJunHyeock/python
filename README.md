@@ -5,7 +5,7 @@
 
 # 나의소개
 안녕하세요. 준혁입니다.
-<img src="1.jpg" /> <br>
+<img src="1.jpg" width = 300 height = 150/> <br>
 
 # 나의 동아리 소개
 
